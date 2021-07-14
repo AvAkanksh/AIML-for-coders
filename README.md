@@ -1,1 +1,1 @@
-# AIML-for-coders
+# AI and Machine Learning for Coders Textbook
